@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Recipe World - Home</title>
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <h1 id="siteName">RECIPE WORLD</h1>
+
+        <ul id="menu">
+          <li><a href="index.html">HOME</a></li>
+          <li><a href="recipes.html">RECIPES</a></li>
+          <li class="active"><a href="suggest.html">SUGGEST</a></li>
+        </ul>
+      </header>
+
+      <main>
+        <h1>SUGGEST</h1>
+        <form id="suggestForm">
+          <div>
+            <label for="recipe">Recipe Name*:</label>
+            <input id="recipe" type="text" required />
+          </div>
+          <div>
+            <label for="ingredients">Ingredients*:</label>
+            <textarea id="ingredients" rows="4" required></textarea>
+          </div>
+          <div>
+            <label for="fullName">Your Name*:</label>
+            <input id="fullName" type="text" required />
+          </div>
+          <div>
+            <label for="email">Your Email*:</label>
+            <input id="email" type="email" required />
+          </div>
+          <div>
+            <label for="agreeTC">Agree with T&C:</label>
+            <input id="agreeTC" type="checkbox"  required />
+          </div>
+          <div>
+            <input type="submit" id="sendButton" value="Click to Submit" disabled />
+          </div>
+        </form>
+      </main>
+
+      <footer>
+        <div>&copy; 2023 - RECIPE WORLD - Primozalho Dias</div>
+      </footer>
+    </div>
+
+    <script lang="javascritp" src="js/script.js" />
+  </body>
+</html>
