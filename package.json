@@ -2,7 +2,7 @@
   "name": "fsa-unit-04-section-04",
   "version": "1.0.0",
   "description": "FSA FUNDAMENTALS - Unit 04 Section 04",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,12 +13,9 @@
   "keywords": [
     "html",
     "css",
-    "js"
+    "javascript"
   ],
   "author": "Primo Dias",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/PrimoPJN/FSA-Unit-04-Section-04/issues"
-  },
   "homepage": "https://github.com/PrimoPJN/FSA-Unit-04-Section-04#readme"
 }

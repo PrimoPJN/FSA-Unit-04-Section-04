@@ -1,7 +1,9 @@
 [
     {
-        "recipe": "Magic Cake",
+        "id": 1,
+        "name": "Magic Cake",
         "description": "One simple batter turns into a 3 layered cake with a top layer of sponge, a middle layer of custard and a fudge-like base. It's like....magic! Adapted from Magic Cake by Jo Cooks.",
+        "image": "img/magic_cake.jpg",
         "ingredients": [
             "4 eggs , yolks and whites separated (at room temperature)",
             "3/4 cup (150g) sugar (ordinary or caster sugar)",
@@ -27,8 +29,10 @@
         ]
     },
     {
-        "recipe": "Easy Vegetarian Pasta",
+        "id": 2,
+        "name": "Easy Vegetarian Pasta",
         "description": "This elegant, bright pasta dish comes together in about the same amount of time it takes to boil noodles and heat up a jar of store-bought marinara. The no-cook sauce is a 50-50 mix of ricotta and Parmesan, with the zest and juice of one lemon thrown in. That’s it. To make it more filling, add peas, asparagus or spinach in the last few minutes of the pasta boiling, or stir in fresh arugula or watercress with the sauce in Step 3. It’s a weeknight and for-company keeper any way you stir it.",
+        "image": "img/easy_vegetarian_pasta.jpg",
         "ingredients": [
             "Kosher salt",
             "1 pound short, ribbed pasta, like gemelli or penne",
@@ -51,8 +55,10 @@
         ]
     },
     {
-        "recipe": "Korean Fried Chicken",
+        "id": 3,
+        "name": "Korean Fried Chicken",
         "description": "Nicknamed “candy chicken,” Korean fried chicken is known for its addictively crunchy exterior and its thick sweet-and-spicy sauce. Increasingly popularized in recent years, Korean fried chicken was born around the time of the Korean War: African-American soldiers stationed in South Korea brought with them a culinary soft spot for a soul food staple — deep-fried chicken. Recipes evolved through the following decades and boomed during the 1997 Asian financial crisis when high unemployment rates led many jobless workers to create their own fried chicken joints to make a living.",
+        "image": "img/korean_fried_chicken.jpg",
         "ingredients": [
             "Vegetable oil", 
             "1 tsp. kosher salt",

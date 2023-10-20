@@ -9,3 +9,4 @@ checkBox.addEventListener("input", () => {
     button.disabled = true;
   }
 });
+
