@@ -1,0 +1,80 @@
+[
+    {
+        "recipe": "Magic Cake",
+        "description": "One simple batter turns into a 3 layered cake with a top layer of sponge, a middle layer of custard and a fudge-like base. It's like....magic! Adapted from Magic Cake by Jo Cooks.",
+        "ingredients": [
+            "4 eggs , yolks and whites separated (at room temperature)",
+            "3/4 cup (150g) sugar (ordinary or caster sugar)",
+            "1 tsp vanilla extract",
+            "1 stick (4oz / 125g / 1/2 cup) unsalted butter , melted",
+            "3/4 cup (4oz / 115g) plain all purpose flour",
+            "2 cups (500 ml / 1 pint) milk (lukewarm) (full fat or low fat but not zero fat)"
+        ],
+        "directions": [
+            "Preheat oven to 325F/160C (standard oven / fan forced or convection).",
+            "Butter a 8 x 8 / 20cm x 20cm square cake tin (Note 4).",
+            "Beat egg whites with a mixer until stiff peaks form. Set aside.",
+            "Place the egg yolks and sugar in a bowl and beat until it turns pale yellow - about 1 minute.",
+            "Add the vanilla extract and butter and beat until well incorporated - about 30 seconds to 1 minute.",
+            "Add the flour and beat until just combined.",
+            "Pour the milk in slowly while beating, and beat until well combined (or if using a hand held mixer, add 1/4 milk at a time, beating in between).",
+            "Use a spatula to fold in the egg whites in the batter, one third at a time, until just incorporated. You don't want to knock the air out of the egg whites. Don't worry if there are a few egg white lumps in the batter. The batter should be very thin, almost like a thick pouring cream.",
+            "Pour the batter into the prepared cake tin."
+        ],
+        "images": [
+            "img/magic_cake_01.jpg",
+            "img/magic_cake_02.jpg"
+        ]
+    },
+    {
+        "recipe": "Easy Vegetarian Pasta",
+        "description": "This elegant, bright pasta dish comes together in about the same amount of time it takes to boil noodles and heat up a jar of store-bought marinara. The no-cook sauce is a 50-50 mix of ricotta and Parmesan, with the zest and juice of one lemon thrown in. That’s it. To make it more filling, add peas, asparagus or spinach in the last few minutes of the pasta boiling, or stir in fresh arugula or watercress with the sauce in Step 3. It’s a weeknight and for-company keeper any way you stir it.",
+        "ingredients": [
+            "Kosher salt",
+            "1 pound short, ribbed pasta, like gemelli or penne",
+            "1 cup whole-milk ricotta (8 ounces)",
+            "1 cup freshly grated Parmesan or pecorino (2 ounces), plus more for serving",
+            "1 tablespoon freshly grated lemon zest plus ¼ cup lemon juice (from 1 to 2 lemons)",
+            "Black pepper",
+            "Red-pepper flakes, for serving",
+            "¼ cup thinly sliced or torn basil leaves, for serving (optional)"
+        ],
+        "directions": [
+            "Bring a large pot of salted water to a boil. Add the pasta and cook according to package instructions until al dente. Reserve 1 cup pasta cooking water, then drain the pasta.",
+            "In the same pot, make the sauce: Add the ricotta, Parmesan, lemon zest and juice, ½ teaspoon salt and ½ teaspoon pepper and stir until well combined.",
+            "Add ½ cup pasta water to the sauce and stir until smooth. Add the pasta and continue to stir vigorously until the noodles are well coated. Add more pasta water as needed for a smooth sauce.",
+            "Divide the pasta among bowls and top with some of the sauce that’s pooled at the bottom of the pot. Garnish with grated Parmesan, black pepper, red-pepper flakes and basil, if using."
+        ],
+        "images": [
+            "img/easy_vegetarian_pasta_02.jpg",
+            "img/easy_vegetarian_pasta_02.jpg"
+        ]
+    },
+    {
+        "recipe": "Korean Fried Chicken",
+        "description": "Nicknamed “candy chicken,” Korean fried chicken is known for its addictively crunchy exterior and its thick sweet-and-spicy sauce. Increasingly popularized in recent years, Korean fried chicken was born around the time of the Korean War: African-American soldiers stationed in South Korea brought with them a culinary soft spot for a soul food staple — deep-fried chicken. Recipes evolved through the following decades and boomed during the 1997 Asian financial crisis when high unemployment rates led many jobless workers to create their own fried chicken joints to make a living.",
+        "ingredients": [
+            "Vegetable oil", 
+            "1 tsp. kosher salt",
+            "1/2 tsp. freshly ground black pepper",
+            "1/2 tsp. baking powder",
+            "1/2 tsp. garlic powder",
+            "2 lb. chicken wings",
+            "1 tbsp. freshly grated ginger",
+            "1/2 c. cornstarch"
+        ],
+        "directions": [
+            "Make wings: In a deep pot over medium-high heat, heat 4 to 6 cups vegetable oil to 275°. Line a large plate or baking sheet with paper towels. In a small bowl, combine salt, pepper, baking powder, and garlic powder.",
+            "Pat wings dry with paper towels, then rub with grated ginger and season with salt mixture. In a large bowl, toss wings with cornstarch and squeeze to compress coating onto each wing.",
+            "Carefully add wings to oil and fry until skin is just lightly crisped and golden, occasionally flipping with tongs, about 15 to 18 minutes. Remove wings from oil and set aside on prepared plate. Let rest briefly.",
+            "Heat frying oil to 400°. Return wings to pot and fry again until deeply golden and skin is crisp and crunchy, about 7 to 8 minutes. Remove wings from oil and place in a large mixing bowl.",
+            "Make sauce: In a medium saucepan over medium-low heat, add butter, dried chilis, ginger, and garlic and cook until fragrant, 2 minutes. Stir in gochujang, ketchup, vinegar, and soy sauce and cook until bubbling. Stir in honey and brown sugar and continue cooking until bubbling and slightly thickened.",
+            "Pour sauce over wings and toss until evenly coated. Add in peanuts and toss to combine.",
+            "Garnish with sesame seeds and green onion before serving."
+        ],
+        "images": [
+            "img/korean_fried_chicken_01.jpg",
+            "img/korean_fried_chicken_02.jpg"
+        ]
+    }
+]
