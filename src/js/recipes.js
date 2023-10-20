@@ -1,4 +1,4 @@
-import getRecipes, * as recipesRepository from './recipesRepository.js';
+import getRecipe, * as recipesRepository from './recipesRepository.js';
 
 var data = { listItems: [] };
 
@@ -8,8 +8,7 @@ function render() {
   list.innerHTML = recipesRepository.recipesTemplate(data.listItems);
 };
 
-
-getRecipes().then((recipes) => {
+getRecipe().then((recipes) => {
   data.listItems = recipes;
   render();
 });

@@ -161,27 +161,27 @@ article h4 a {
 
 /* RECIPE DETAIL */
 
-#recipe_detail {
+#recipeDetail {
   display: flex;
   justify-content: flex-start;
 }
 
-#recipe_detail img {
+#recipeDetail img {
   height: 400px;
   padding: 8px;
 }
 
-#recipe_detail div {
+#recipeDetail div {
   text-align: left;
   vertical-align: top;
   margin-right: 20px;
 }
 
-#recipe_detail .imgs li {
+#recipeDetail .imgs li {
   display: inline;
 }
 
-#recipe_detail .imgs li img {
+#recipeDetail .imgs li img {
   width: 100px;
   height: 100px;
 }
